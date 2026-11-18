@@ -1,19 +1,16 @@
 ---
 title: "index"
-subtitle: "Rstudio"
 author: "AMB"
 date: "2026-11-18"
 output: 
   github_document:
-     html_preview: FALSE
+    html_preview: FALSE
   html_document:
     toc: TRUE
-    number_sections: TRUE
+    number_sections: TRUE 
 ---
 
-sicseben
-cddsadsax
-patatapatatapatata 
+holaholahola
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
